@@ -1,2 +1,1 @@
-# Calcu4Me
- react app, easy to use calculator
+## Calcu4me app ## 
